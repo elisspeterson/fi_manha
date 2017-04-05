@@ -1,0 +1,71 @@
+====================================
+05/04/2017
+====================================
+
+*** Load Balance ***
+
+Load Balance( Balanceamento de Carga), em rede de computadores, é uma técnica para distribuir a carga de trabalho uniformemente entre dois ou mais computadores, enlaces de redes, discos rígidos entre outros recursos, a fim de otimizar a utilização de recursos, maximizar o desempenho, minimizar o tempo de resposta e evitar sobrecarga. Utilizando múltiplos componentes com o balanceamento de carga (Load balancing ou load balance), em vez de um único componente, pode aumentar a confiabilidade através da redundância.
+
+*** Validar site para Mobile ***
+
+https://search.google.com/search-console/mobile-friendly
+
+*** Bitbucket ***
+
+Um sistema de controle de versão distribuído que torna mais fácil para você colaborar com a sua equipe. A única solução Git colaborativa que escala em massa.
+
+====================================
+====================================
+
+LS = Dir
+Clear = cls
+
+====================================
+====================================
+
+ipconfig
+- Informaçãos de endereços da maquina
+
+tracert (url)
+- Informa rota de uma URL
+
+nslookup (url)
+- informa o ip que esta mapeado para um dominio.
+
+ping (url)
+- Informa tempo de resposta de um servidor.
+ping 
+ping
+ping
+
+netstat
+- informa serviços e portas utilizadas localmente
+
+route print
+- Tabelas de Rotas
+
+====================================
+====================================
+
+Comandos Github
+
+•Conta no Github
+–Criar conta
+–Criar repositório (ex: SPI)
+•Gitbash
+–mkdir SPI
+–cd SPI #criar um arquivo nesta pasta
+–git config --global user.name “Guilherme Bertoni Machado“
+–git config --global user.email gbertonimachado@gmail.com
+–git init
+–git add .
+–git commit -m “inserindo arquivo(s) do projeto”
+–git config --global http.proxy http://192.168.7.253:8080 #em casa não
+–git config --global https.proxy http://192.168.7.253:8080 #em casa não
+–git remote add origin https://github.com/gbmachado/SPI.git
+–git push origin master #arquivo(s) foram pro github
+–Criar um readme no github
+–git pull https://github.com/gbmachado/SPI.git #readme foi pra pasta local
+
+C:\Users\631410430\Desktop\Elisangela\04_050417_Aula05\fi_manha
+
